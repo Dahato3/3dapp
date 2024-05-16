@@ -1,0 +1,92 @@
+{
+    "pageTextData": [
+    {
+        "cardTitleCosta": "Costa",
+        "cardTitleOasis": "Oasis",
+        "cardTitleFanta": "Fanta",
+        "swapHome": "Click the logo to change theme"
+    },
+    {
+        "title": "Costa Smooth Frappé - A 3D render of my costa smooth coffee model created and rendered in blender",
+        "description": "We’ve been serving great coffee with our legendary Signature blend since 1971. So, whether you need a pick-me-up, a chance to chill out or just want to hit reset, you can lose yourself in our sensationally smooth Costa Coffee Frappe. It’s thick, it’s creamy and it’s seriously indulgent. Shake it up and enjoy."
+    },
+    {
+        "title": "Costa Choc Fudge Frappé - A 3D render of my costa choc fudge coffee model created and rendered in blender",
+        "description": "We’ve been serving great coffee with our legendary Signature blend since 1971. So, whether you need a pick-me-up, a chance to chill out or just want to hit reset, you can lose yourself in our sensationally smooth Choc Fudge Brownie Frappe. This is Costa coffee blended with the luscious flavours of a chocolate fudge brownie. It’s thick, it’s creamy and it’s seriously indulgent. Shake it up and enjoy."
+    },
+    {
+        "title": "Costa Caramel Swirl Frappé - A 3D render of my costa smooth coffee model created and rendered in blender",
+        "description": "We’ve been serving great coffee with our legendary Signature blend since 1971. So, whether you need a pick-me-up, a chance to chill out or just want to hit reset, you can lose yourself in our sensationally smooth Caramel Swirl Frappe. It’s thick, it’s creamy and it’s seriously indulgent. Shake it up and enjoy."
+    },
+    {
+        "title": "Oasis Summer Fruits - A 3D render of my oasis summer fruits model created and rendered in blender",
+        "description": "The UK's number one on-the-go juice drink, this time with your favourite summer fruits."
+    },
+    {
+        "title": "Oasis Citrus Punch - A 3D render of my oasis citrus punch model created and rendered in blender",
+        "description": "The UK's number one on-the-go juice drink, this time with a citrusy punchy."
+    },
+    {
+        "title": "Oasis Exotic Fruits Zero - A 3D render of my oasis exotic fruits zero model created and rendered in blender",
+        "description": "Oasis Zero Exotic Fruits is a refreshing blend of mango and passion fruit flavours with no calories and no sugar."
+    },
+    {
+        "title": "Fanta Orange Can - A 3D render of my fanta orange can model created and rendered in blender",
+        "description": "Bright, bubbly, instantly refreshing and great tasting. Fanta Orange is made with 100% natural flavours, fruit juice and is caffeine free."
+    },
+    {
+        "title": "Fanta Twist Can - A 3D render of my fanta fruit twist can model created and rendered in blender",
+        "description": "A juicy blast of fruity flavours and fruit juice."
+    },
+    {
+        "title": "Fanta Lemon Can - A 3D render of my fanta lemon can model created and rendered in blender",
+        "description": "Tongue tingling refreshing with a lemony zing & fruit juice."
+    },
+    {
+        "cameraTitle": "Camera Views"
+    },
+    {
+        "animationTitle": "Animation"
+    },
+    {
+        "renderTitle": "Render"
+    },
+    {
+        "x3dModelTitleCosta": "Costa X3D Model",
+        "x3dCreationMethodCosta": "Above is my X3D Costa Frappé model. I created and exported this model in the blender modeling software."
+    },
+    {
+        "x3dModelTitleOasis": "Oasis X3D Model",
+        "x3dCreationMethodOasis": "Above is my X3D Oasis Summer Fruits bottle model. I created and exported this model in the blender modeling software."
+    },
+    {
+        "x3dModelTitleFanta": "Fanta X3D Model",
+        "x3dCreationMethodFanta": "Above is my X3D Fanta Orange can model. I created and exported this model in the blender modeling software."
+    },
+    {
+        "galleryTitle": "3D Image Gallery",
+        "galleryDescription": "This gallery displays 3D renders of all 9 of my models I created. 3 for each brand. They have all been created and rendered in the 3D modeling software blender."
+    },
+    {
+        "costaImagePathOne": "../gallery/images/costa/12costa_smoothcoffee_render1.png",
+        "costaImagePathTwo": "../gallery/images/costa/13costa_chocfudge_render1.png",
+        "costaImagePathThree": "../gallery/images/costa/14costa_caramelswirl_render1.png",
+        "oasisImagePathOne": "../gallery/images/oasis/22oasis_summerfruits_render1.png",
+        "oasisImagePathTwo": "../gallery/images/oasis/23oasis_cirtus_render1.png",
+        "oasisImagePathThree": "../gallery/images/oasis/24oasis_zerosugar_render1.png",
+        "fantaImagePathOne": "../gallery/images/fanta/32fanta_orange_render1.png",
+        "fantaImagePathTwo": "../gallery/images/fanta/33fanta_fruittwist_render1.png",
+        "fantaImagePathThree": "../gallery/images/fanta/34fanta_lemon_render1.png"
+    },
+    {
+        "costaLogoPath": "../gallery/images/costa_logo.jpg",
+        "oasisLogoPath": "../gallery/images/oasis_logo.jpg",
+        "fantaLogoPath": "../gallery/images/fanta_logo.jpg"
+    }
+
+    ]
+
+    
+}
+
+
